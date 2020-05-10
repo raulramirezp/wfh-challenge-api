@@ -1,0 +1,2 @@
+# wfh-challenge-api
+The idea of this challenge is to improve interdisciplinary skills by developing a simple project in multiple stages. Each stage is designed to develop some specific skills. This challenge is not tied to any specific technology or language. We want to allow participants to explore and choose what best suits the problem and their capabilities. The solution can be whatever fulfills the requirements (web app, mobile app, hybrid app, etc.). 
